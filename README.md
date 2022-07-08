@@ -26,7 +26,7 @@ There are a couple of optional steps, too!
 
 First, you can print an enclosure to hold the PCB and protect it from dust and your own clumsiness. I definitely did this.
 The files are in [3D Printing](3D Printing), and if you happen to have a Photon Mono X 6K, you can use those *.pwmb files directly. Otherwise, you'll need to use the STL files and do what you do best.
-The screws that hold the case together are meant to be M3 screws with brass inserts in the bottom of the case, but you can modify this design to fit whatever you want to do
+The screws that hold the case together are meant to be M3 screws with brass inserts in the bottom of the case, but you can modify this design to fit whatever you want to do.
 
 The second optional step is to print the [keyboard decals](Keyboard Decals.xcf) and affix them to the specialty keys on your PS/2 keyboard (see the [keymap](Keymap.txt) for details on how I set these up by default).
 You can always remap these keys by modifying the program (specifically [ps2_to_hp_map.h](Code/PS2_Keyboard_Adaptor/ps2_to_hp_map.h))
