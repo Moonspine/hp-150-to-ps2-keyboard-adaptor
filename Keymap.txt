@@ -1,0 +1,33 @@
+All HP keys that map to standard PS/2 keys are mapped as expected.
+The nonstandard HP keys that are mapped to PS/2 keys are listed below.
+
+/*
+ * List of nonstandard keyboard mappings:
+ * 
+ *   ESC -> HP ESC / DEL
+ *   Print Screen -> HP Enter / Print
+ *   Pause/Break -> HP Reset / Break
+ *   Menu -> HP Menu
+ *   Left Windows -> HP System
+ *   Insert -> HP Insert Char
+ *   Delete -> HP Delete Char
+ *   Page Up -> HP Prev
+ *   Page Down -> HP Next
+ *   Left Alt -> HP Left Extend Char
+ *   Right Alt -> HP Clear Line
+ *   Right Windows -> HP Arrow
+ *   Scroll Lock -> HP Stop
+ *   Num Lock -> HP Select
+ *   Home -> HP Insert Line
+ *   End -> HP Delete Line
+ *   Right Control -> HP Clear Screen
+ */
+
+/*
+ * List of unmapped HP keys:
+ * 
+ *   Right Extend Char
+ *   Spare 1
+ *   Spare 2
+ *   Numpad Tab
+ */
